@@ -3,7 +3,7 @@ My cybersecurity and programming learning journey
 HELLO!! I'm Cookie.
 
 I'm learning:
-1. Pyhton
+1. Python
 2. Linux
 3. Networking
 4. Cybersecurity
